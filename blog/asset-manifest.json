@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coddingApple_React/blog/static/css/main.7bea6c0b.css",
+    "main.js": "/coddingApple_React/blog/static/js/main.efe10ebc.js",
+    "static/js/787.f587e8d5.chunk.js": "/coddingApple_React/blog/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/coddingApple_React/blog/index.html",
+    "main.7bea6c0b.css.map": "/coddingApple_React/blog/static/css/main.7bea6c0b.css.map",
+    "main.efe10ebc.js.map": "/coddingApple_React/blog/static/js/main.efe10ebc.js.map",
+    "787.f587e8d5.chunk.js.map": "/coddingApple_React/blog/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bea6c0b.css",
+    "static/js/main.efe10ebc.js"
+  ]
+}
