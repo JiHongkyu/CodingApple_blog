@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c1c2e1aa.css",
-    "main.js": "/static/js/main.ab22b679.js",
+    "main.js": "/static/js/main.e9ed21fb.js",
     "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
     "static/media/newtech-bg.png": "/static/media/newtech-bg.e2d6322cef347e881156.png",
     "index.html": "/index.html",
     "main.c1c2e1aa.css.map": "/static/css/main.c1c2e1aa.css.map",
-    "main.ab22b679.js.map": "/static/js/main.ab22b679.js.map",
+    "main.e9ed21fb.js.map": "/static/js/main.e9ed21fb.js.map",
     "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c2e1aa.css",
-    "static/js/main.ab22b679.js"
+    "static/js/main.e9ed21fb.js"
   ]
 }
