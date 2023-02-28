@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/codingApple_React/shop/static/css/main.b9b52d2e.css",
-    "main.js": "/codingApple_React/shop/static/js/main.7fd6e38b.js",
+    "main.js": "/codingApple_React/shop/static/js/main.74b6d0da.js",
     "static/js/787.23170c61.chunk.js": "/codingApple_React/shop/static/js/787.23170c61.chunk.js",
     "static/media/newtech-bg.png": "/codingApple_React/shop/static/media/newtech-bg.e2d6322cef347e881156.png",
     "index.html": "/codingApple_React/shop/index.html",
     "main.b9b52d2e.css.map": "/codingApple_React/shop/static/css/main.b9b52d2e.css.map",
-    "main.7fd6e38b.js.map": "/codingApple_React/shop/static/js/main.7fd6e38b.js.map",
+    "main.74b6d0da.js.map": "/codingApple_React/shop/static/js/main.74b6d0da.js.map",
     "787.23170c61.chunk.js.map": "/codingApple_React/shop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9b52d2e.css",
-    "static/js/main.7fd6e38b.js"
+    "static/js/main.74b6d0da.js"
   ]
 }
